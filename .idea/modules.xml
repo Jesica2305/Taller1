@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NumeroLetra/NumeroLetra.iml" filepath="$PROJECT_DIR$/NumeroLetra/NumeroLetra.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taller1-java.iml" filepath="$PROJECT_DIR$/Taller1-java.iml" />
     </modules>
   </component>
